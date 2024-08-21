@@ -1,0 +1,26 @@
+{
+  "name": "Hair Coin",
+  "symbol": "HAIR",
+  "type": "PSP22",
+  "contractAddress": "5FnRfc5dKP5Wsg5uu7cbmdKY8UPt3yhqteTDAswLRDud8vJH",
+  "decimals": 12,
+  "description": "HAIR: Silly but valuable!",
+  "website": "https://hairdrop.godaddysites.com",
+  "sourceCode": "https://github.com/InkWhale-net/contracts/blob/feature/upgrade-op-4/contracts/psp22_standard/lib.rs",
+  "links": [
+    {
+      "name": "X/Twitter",
+      "url": "https://x.com/HAIR_Coin"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/HAIR_Coin"
+    }
+    }
+  ],
+  "customTags": [
+  ],
+  "warnings": [],
+  "owner": "5HjgEKAQNiTDjkpSNj2q61tW7KkzYqu6dLBaFF3Q6vg2GfAi",
+  "minter": "5HjgEKAQNiTDjkpSNj2q61tW7KkzYqu6dLBaFF3Q6vg2GfAi"
+}
